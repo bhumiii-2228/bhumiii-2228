@@ -10,11 +10,13 @@
 </p>
 
 
-🎓 MCA (AI & ML) Student
+🎓 MCA (AI & ML) Student at Lovely Professional University
 
-💻 Aspiring Data Analyst & AI Engineer
+🐍 Learning Python, Deep Learning & Data Analytics
 
-📈 Passionate about Machine Learning, Data Science and DSA
+🤖 Passionate about Artificial Intelligence & Machine Learning
+
+💻 Solving LeetCode problems every day
 
 🚀 Building projects that solve real-world problems.
 
