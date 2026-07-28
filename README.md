@@ -139,3 +139,19 @@ A database-driven application for managing books, users, issue/return records, a
 
  "Consistency beats intensity."
 
+<h2 align="center">🐍 Contribution Snake</h2>
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/bhumiii-2228/bhumiii-2228/output/github-contribution-grid-snake-dark.svg" />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/bhumiii-2228/bhumiii-2228/output/github-contribution-grid-snake.svg" />
+    <img
+      alt="GitHub Contribution Snake"
+      src="https://raw.githubusercontent.com/bhumiii-2228/bhumiii-2228/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
