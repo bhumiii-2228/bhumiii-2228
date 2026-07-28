@@ -81,8 +81,9 @@
 </p>
 
 
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bhumiii-2228&theme=tokyonight"/>
-</p>
+<h2 align="center">📈 Contribution Graph</h2>
 
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bhumiii-2228&theme=tokyo-night&hide_border=true"/>
+</p>
 
