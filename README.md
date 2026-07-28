@@ -87,3 +87,71 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=bhumiii-2228&theme=tokyo-night&hide_border=true"/>
 </p>
 
+<h2 align="center">🔥 GitHub Streak</h2>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=bhumiii-2228&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+## 🚀 Featured Projects
+
+### 🤖 AI Media Generator
+An AI-powered application for generating images and GIFs using deep learning APIs.
+
+**Tech:** Python, Flask, HTML, CSS, JavaScript
+
+---
+
+### 💼 AI Job Fetching Agent
+An intelligent job search assistant that fetches the latest AI/ML job postings.
+
+**Tech:** Python, BeautifulSoup, APIs
+
+---
+
+### 🌍 Travela
+A full-stack travel booking platform with authentication and booking management.
+
+**Tech:** MERN Stack
+
+---
+
+### 🍿 Netflix Clone
+A responsive Netflix UI clone built using React.
+
+**Tech:** React, CSS
+
+---
+
+### 🌦️ Weather App
+A weather application using real-time weather APIs.
+
+**Tech:** JavaScript, OpenWeather API
+
+## 💻 Coding Profiles
+
+<p align="center">
+<a href="https://leetcode.com/u/YOUR_USERNAME/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:bansalbhumika229@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
+
+## 💡 Quote
+
+> "Consistency beats intensity."
+
+or
+
+> "Building today. Improving tomorrow."
+
+or
+
+> "Learning never exhausts the mind."
