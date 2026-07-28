@@ -7,15 +7,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhumiii-2228" alt="bhumiii-2228" /></a> </p>
 
-- 🔭 I’m currently working on **AI & ML**
+🎓 MCA (AI & ML) Student
 
-- 🌱 I’m currently learning **Frontend**
+💻 Aspiring Data Analyst & AI Engineer
 
-- 👯 I’m looking to collaborate on **Data Cleaning**
+📈 Passionate about Machine Learning, Data Science and DSA
 
-- 🤝 I’m looking for help with **Java + DSA**
-
-- 💬 Ask me about **Numpy, Pandas**
+🚀 Building projects that solve real-world problems.
 
 - 📫 How to reach me **bansalbhumika229@gmail.com**
 
