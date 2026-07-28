@@ -80,6 +80,11 @@
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhumiii-2228&show_icons=true&locale=en" alt="bhumiii-2228" /></p>
+<h2 align="center">📊 GitHub Stats</h2>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhumiii-2228&" alt="bhumiii-2228" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bhumiii-2228&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhumiii-2228&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" height="170"/>
+</p>
+
+
