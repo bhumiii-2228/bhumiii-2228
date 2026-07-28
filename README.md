@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bhumika Bansal</h1>
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1200&color=6A5ACD&center=true&vCenter=true&width=850&lines=AI+%26+Machine+Learning+Enthusiast;Data+Science+Explorer;MCA+(AI+%26+ML)+Student;Building+Projects+with+Python;LeetCode+%7C+Open+Source+Learner;Always+Learning+Something+New+🚀" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3500&pause=1000&color=8A2BE2&center=true&vCenter=true&repeat=true&width=950&lines=🤖+AI+%26+Machine+Learning+Enthusiast;📊+Data+Science+Explorer;🐍+LeetCode+Problem+Solver;💻+Python+Developer;🚀+Building+Real+World+AI+Projects;✨+Always+Learning" alt="Typing SVG"/>
 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhumiii-2228&label=Profile%20views&color=0e75b6&style=flat" alt="bhumiii-2228" /> </p>
