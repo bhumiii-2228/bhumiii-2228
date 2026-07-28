@@ -96,62 +96,46 @@
 ## 🚀 Featured Projects
 
 ### 🤖 AI Media Generator
-An AI-powered application for generating images and GIFs using deep learning APIs.
+An AI-powered web application that generates images and GIFs from text prompts using AI models. Designed with a user-friendly interface and prompt-based generation workflow.
 
-**Tech:** Python, Flask, HTML, CSS, JavaScript
+**Tech Stack:** Python, Flask, HTML, CSS, JavaScript
 
 ---
 
-### 💼 AI Job Fetching Agent
-An intelligent job search assistant that fetches the latest AI/ML job postings.
+### 🛡️ National Cyber Threat Dashboard
+A real-time cyber threat monitoring dashboard designed to visualize cybersecurity incidents, attack trends, threat levels, and security analytics through interactive charts and dashboards.
 
-**Tech:** Python, BeautifulSoup, APIs
+**Tech Stack:** Python, Flask, SQL, HTML, CSS, JavaScript, Chart.js
+
+---
+
+### 💼 AI Job Fetching Agent *(In Progress)*
+An intelligent job search assistant that automatically collects the latest AI/ML, Data Science, and Software Engineering job postings from multiple platforms.
+
+**Tech Stack:** Python, APIs, BeautifulSoup
 
 ---
 
 ### 🌍 Travela
-A full-stack travel booking platform with authentication and booking management.
+A full-stack travel booking platform featuring user authentication, hotel listings, destination search, and booking management.
 
-**Tech:** MERN Stack
-
----
-
-### 🍿 Netflix Clone
-A responsive Netflix UI clone built using React.
-
-**Tech:** React, CSS
+**Tech Stack:** MongoDB, Express.js, React.js, Node.js (MERN)
 
 ---
 
-### 🌦️ Weather App
-A weather application using real-time weather APIs.
+### 🎬 Netflix Clone
+A responsive Netflix-inspired web application replicating the modern streaming platform interface with dynamic content sections.
 
-**Tech:** JavaScript, OpenWeather API
+**Tech Stack:** React.js, HTML, CSS, JavaScript
 
-## 💻 Coding Profiles
+---
 
-<p align="center">
-<a href="https://leetcode.com/u/YOUR_USERNAME/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
+### 📚 Library Management System
+A database-driven application for managing books, users, issue/return records, and library operations with CRUD functionality.
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:bansalbhumika229@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-</p>
+**Tech Stack:** SQL, HTML, CSS, JavaScript
 
 ## 💡 Quote
 
-> "Consistency beats intensity."
+ "Consistency beats intensity."
 
-or
-
-> "Building today. Improving tomorrow."
-
-or
-
-> "Learning never exhausts the mind."
