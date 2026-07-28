@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="Hi 👋, I'm Bhumika Bansal" width="700"/>
-</p>
+<h1 align="center">Hi 👋, I'm Bhumika Bansal</h1>
 <h3 align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7A7AF7&width=435&lines=AI+%26+Machine+Learning+Enthusiast;Data+Science+Explorer;MCA+(AI+%26+ML)+Student;Building+Real+Projects;LeetCode+%7C+Open+Source+Learner;Always+Learning+Something+New+%F0%9F%9A%80" alt="Typing SVG" /></a>
 </h3>
