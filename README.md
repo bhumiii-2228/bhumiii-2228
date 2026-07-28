@@ -90,7 +90,7 @@
 <h2 align="center">🔥 GitHub Streak</h2>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=bhumiii-2228&theme=tokyonight&hide_border=true&v=1" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=bhumiii-2228&theme=tokyonight&hide_border=true&v=2" alt="GitHub Streak" />
 </p>
 
 ## 🚀 Featured Projects
