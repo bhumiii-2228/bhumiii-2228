@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmM1c3d1bzNiYXoyZzVtOWtveTFmc3luMWNhdjUya21xaHk1a2xvYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Cmr1OMJ2FN0B2/giphy.gif" width="700"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmM1c3d1bzNiYXoyZzVtOWtveTFmc3luMWNhdjUya21xaHk1a2xvYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Cmr1OMJ2FN0B2/giphy.gif" width="450"/>
 </p>
 <h1 align="center">Hi 👋, I'm Bhumika Bansal</h1>
 <h3 align="center">
