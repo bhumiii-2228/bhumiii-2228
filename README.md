@@ -9,9 +9,6 @@
 <img src="https://komarev.com/ghpvc/?username=bhumiii-2228&label=Profile%20Views&color=blueviolet&style=flat"/>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bhumiii-2228&label=Profile%20views&color=0e75b6&style=flat" alt="bhumiii-2228" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhumiii-2228" alt="bhumiii-2228" /></a> </p>
 
 🎓 MCA (AI & ML) Student
 
